@@ -1,0 +1,11 @@
+*.pyc
+*.log
+*.bad
+tmp*.py
+src/data/lfdata/stock/stk_financial
+*.ipynb
+nohup.out
+src/scripts/*
+src/utils/tmp/*
+*.ipynb
+.ipynb_checkpoints/*
